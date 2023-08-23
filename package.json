@@ -1,0 +1,22 @@
+{
+  "name": "bimba",
+  "version": "0.0.1",
+  "description": "small reactive state management library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Vladyslav S.",
+    "email": "log69x@gmail.com"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.3",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
+  }
+}
