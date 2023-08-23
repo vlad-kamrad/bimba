@@ -9,6 +9,10 @@
     "name": "Vladyslav S.",
     "email": "log69x@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vlad-kamrad/bimba"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest"
